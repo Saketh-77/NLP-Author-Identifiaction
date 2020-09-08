@@ -1,3 +1,3 @@
 # NLP-Author-Identifiaction
 
-To view the source code, click on the source blob instead of rendered blob.
+This project is about a machine learning model to clasify authors based on their writing features so as to prevent identity theft.
